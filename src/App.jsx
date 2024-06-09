@@ -1,6 +1,6 @@
-import Header from './components/Header/Header';
-import Sections from './components/Sections/Sections';
-import Footer from './components/Footer/Footer';
+import Header from './components/Header/Header.jsx';
+import Sections from './components/Sections/Sections.jsx';
+import Footer from './components/Footer/Footer.jsx';
 
 function App() {
 	return (
